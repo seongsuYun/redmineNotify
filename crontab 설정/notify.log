@@ -1,0 +1,10 @@
+hello~~~
+hello~~~
+10:32:08.942 [main] DEBUG com.uwiseone.notify.NotifyController - [RedMine Slack Api] Start
+10:32:08.945 [main] DEBUG com.uwiseone.notify.NotifyController - [RedMine Slack Api] finished
+10:33:08.548 [main] DEBUG com.uwiseone.notify.NotifyController - [RedMine Slack Api] Start
+10:33:08.551 [main] DEBUG com.uwiseone.notify.NotifyController - [RedMine Slack Api] finished
+[2018-11-29 10:36:08][DEBUG][com.uwiseone.notify.NotifyController] - [RedMine Slack Api] Start
+[2018-11-29 10:36:08][DEBUG][com.uwiseone.notify.NotifyController] - ?? : ISSUE[??] ???? ??? ? ?? ??? ?? 										http://qa.dawins.net/issues/36142
+200
+[2018-11-29 10:36:15][DEBUG][com.uwiseone.notify.NotifyController] - [RedMine Slack Api] finished
